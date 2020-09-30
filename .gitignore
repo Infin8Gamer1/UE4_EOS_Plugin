@@ -1,3 +1,5 @@
+EOSBasic/.idea/*
+
 # EOS includes
 EOSBasic/Plugins/UEOS/Source/ThirdParty/EOSSDK/Bin/
 EOSBasic/Plugins/UEOS/Source/ThirdParty/EOSSDK/Include/
